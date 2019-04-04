@@ -14,7 +14,7 @@ Here are the specifications about what the explorer should be able to do:
 
 Can you help us build this web application? Feel free to use the frontend framework of your choice. We are not grading you on visual look and feel, only the technical implementation, usability, and accessibility.
 
-We don't want you to have to stay up all night working on this app. The task should take no more than 8 hours. If you are stuck on something, feel free to reach out to peng@tendermint.com for  Qhelp or clarification.
+We don't want you to have to stay up all night working on this app. The task should take no more than 8 hours. If you are stuck on something, feel free to reach out for help or clarification.
 
 ## Resources
 
