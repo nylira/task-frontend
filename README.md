@@ -1,6 +1,6 @@
 # Technical Task: Front End Web Developer
 
-We want to see you create a simple block explorer for the Cosmos Hub blockchain using a reactive front-end framework like Vue.js or React. Included in this repository is some Vue boilerplate to get your started. You can use React if you prefer.
+We want to see you create a simple block explorer for the Cosmos Hub blockchain using a reactive front-end framework like Vue.js or React. Included in this repository is some Vue boilerplate to get your started. You can use React if you prefer, but we don't have boilerplate ready for you.
 
 ## Specification
 
